@@ -1,3 +1,10 @@
 # Project exclude paths
 /.idea/
 /.gradle/
+/Code Sharing Platform/POST updates/task/out/
+/Code Sharing Platform/Show the code/task/out/
+/Code Sharing Platform/Snippets feed/task/out/
+/Code Sharing Platform/Super secret snippets/task/out/
+/Code Sharing Platform/task/out/
+/Code Sharing Platform/task2/out/
+/Code Sharing Platform/Work with the database/task/out/
