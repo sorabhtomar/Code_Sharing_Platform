@@ -1,0 +1,32 @@
+.load_date {
+    color: green;
+    font-size: 1em;
+    padding-left: 0.1em;
+}
+
+.code_snippet {
+    border: 2px solid gray;
+    background: lightgray;
+    padding: 0.5em;
+    font-size: 1.5em;
+    margin: 0;
+    margin-bottom: 1em;
+}
+
+.code_snippet[name=create] {
+    height: 10em;
+    width: 45em;
+}
+
+.send_snippet {
+    display: block;
+    color: black;
+    background-color: lightgray;
+    font-size: 1em;
+    padding: 0.2em 0.5em;
+}
+
+.send_snippet:hover {
+    background-color: black;
+    color: lightgray;
+}
